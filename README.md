@@ -1,4 +1,4 @@
-# randomforestrlhf
+# Random Forest Image Classification Model for Racial Detection with RLHF
 
   Models like racial classification are heavily biased based on the initial labeling of the dataset. With a lack of diverse cultural representation in ML academia, many datasets are biased.By adding RLHF to a classification model a model can include human bias to combat the initial bias in a dataset.
 
