@@ -6,4 +6,5 @@
 
   In the context of Critical Race Theory, "Black" is understood as a socially constructed category that goes beyond mere biological or phenotypical attributes. Therefore, categorizing someone as "Black" varies depending on a person's cultural background. In theory, by giving this model to a variety of people to give feedback, the model will tune itself to capture the definition of "Blackness" that an initially biased model and dataset couldn't capture. 
 
-<img width="254" alt="Screenshot 2024-06-03 at 11 10 21 PM" src="https://github.com/ronantakizawa/randomforestrlhf/assets/71115970/6a45ed13-48ad-47c5-9412-fee1ba04e8c8">
+
+![DALL·E-2024-06-03-23 36](https://github.com/ronantakizawa/randomforestrlhf/assets/71115970/59544c26-a8fa-4cfd-9588-bbcb95673d05)
